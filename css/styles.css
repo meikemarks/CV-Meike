@@ -9,7 +9,8 @@
 body {
 	font-family: 'Playfair Display', serif;
 	color: #202030;
-	background-color: #f8f8fc;
+	background-color: #FFE0FE
+		;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -19,7 +20,7 @@ body {
 }
 
 .resume-main {
-	background-color: #FFE3FE;
+	background-color: #FABAFF;
 }
 
 .resume-aside {
