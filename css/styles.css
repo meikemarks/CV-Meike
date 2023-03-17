@@ -9,14 +9,15 @@
 body {
 	font-family: 'Playfair Display', serif;
 	color: #FF3F9F;
-	background-color: #FFE0FE
+	background-color: #FABAFF
+		
 		;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #FABAFF;
+    background-color: #FF9999;
 }
 
 .resume-main {
@@ -24,7 +25,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #FABAFF;
+	background-color: #FF9999;
 }
 
 /* Styles for lists in the document */
